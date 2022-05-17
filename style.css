@@ -1,0 +1,8 @@
+.buttons {
+  display: flex;
+}
+
+.button {
+  padding: 32px;
+  margin: 16px;
+}
